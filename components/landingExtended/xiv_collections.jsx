@@ -30,7 +30,7 @@ export default function Xiv_collections() {
 
       <div className=" flex justify-between text-center text-base ">
         <div className=" flex gap-8 text-[#8A8A8A]">
-          <h1 className=" text-black">(All)</h1>
+          <h1 className=" text-black">( All )</h1>
           <h1>Men</h1>
           <h1>Women</h1>
           <h1>Kids</h1>
